@@ -27,7 +27,7 @@ git clone [https://github.com/ArSin2002/news-api-django-project.git](https://git
 
 ### Configuration
 
-1. Obtain an API key from [News API](https://newsapi.org/) and add it to the `settings.py` file:
+1. Obtain an API key from [News API](https://newsapi.org/) and add it to the `const.py` file:
 
 ```python
 # settings.py
