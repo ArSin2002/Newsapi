@@ -29,19 +29,21 @@ git clone [https://github.com/ArSin2002/news-api-django-project.git](https://git
 
 1. Obtain an API key from [News API](https://newsapi.org/) and add it to the `const.py` file:
 
-```python
-# const.py
-
 NEWS_API_KEY = 'YOUR_NEWS_API_KEY'
 
 ### Running the server
 
+```python
 python manage.py runserver
-
+```
 ## Video Demo
 
 Check out a demo of the project in action:
 
+
+
+
+https://github.com/ArSin2002/Newsapi/assets/97186458/0ce99be8-115c-4a0e-bb2f-837aeb07da39
 
 
 
