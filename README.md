@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
 
 1. Clone the repository to your local machine:
 
-git clone [https://github.com/your-username/news-api-django-project.git](https://github.com/ArSin2002/Newsapi)
+git clone [https://github.com/ArSin2002/news-api-django-project.git](https://github.com/ArSin2002/Newsapi)
 
 2. Navigate into the project directory:
    
