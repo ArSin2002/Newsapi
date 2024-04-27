@@ -30,7 +30,7 @@ git clone [https://github.com/ArSin2002/news-api-django-project.git](https://git
 1. Obtain an API key from [News API](https://newsapi.org/) and add it to the `const.py` file:
 
 ```python
-# settings.py
+# const.py
 
 NEWS_API_KEY = 'YOUR_NEWS_API_KEY'
 
